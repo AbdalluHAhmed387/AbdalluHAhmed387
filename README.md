@@ -89,26 +89,21 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdalluHAhmed387&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalluHAhmed387&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=AbdalluHAhmed387&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdalluHAhmed387&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
+
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ## 🎯 Soft Skills  
 <p align="center">
@@ -122,8 +117,8 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/abdalluhahmed387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="abdalluhahmedfathy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
