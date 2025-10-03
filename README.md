@@ -79,4 +79,10 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME"/>
+</p> 
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
