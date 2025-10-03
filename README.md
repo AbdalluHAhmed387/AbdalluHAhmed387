@@ -10,39 +10,34 @@
 🎓 **Software Engineer specialized in Data & AI**  
 💡 Passionate about **Machine Learning, Data Science, and Artificial Intelligence**  
 🌱 Currently building **real-world projects** combining Data & AI + Web Development  
-⚡ Always exploring how technology can solve real-world problems  
+⚡ Exploring how technology can solve real-world problems  
 
 ---
+
 ## 🧠 Core Data Science Skills  
 
-### 📌 Programming & Scripting  
+### 💻 Programming & Scripting  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
-### 📌 Mathematics & Statistics  
+### 📐 Mathematics & Statistics  
 <p align="center">
   <img src="https://img.shields.io/badge/Linear_Algebra-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Probability_&_Statistics-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Calculus_Basics-2196F3?style=for-the-badge"/>
 </p>
 
----
-
-### 📌 Data Handling & Processing  
+### 🗂️ Data Handling & Processing  
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Cleaning-9C27B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Wrangling-00BCD4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EDA-FFC107?style=for-the-badge"/>
 </p>
 
----
-
-### 📌 Machine Learning  
+### 🤖 Machine Learning  
 <p align="center">
   <img src="https://img.shields.io/badge/Regression-FF5722?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Classification-795548?style=for-the-badge"/>
@@ -50,18 +45,14 @@
   <img src="https://img.shields.io/badge/Model_Evaluation-009688?style=for-the-badge"/>
 </p>
 
----
-
-### 📌 Deep Learning (Basics)  
+### 🧬 Deep Learning (Basics)  
 <p align="center">
   <img src="https://img.shields.io/badge/Neural_Networks-FF4081?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
----
-
-### 📌 Data Visualization  
+### 📊 Data Visualization  
 <p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/>
@@ -70,9 +61,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
----
-
-### 📌 Big Data & Cloud (Intro)  
+### ☁️ Big Data & Cloud (Intro)  
 <p align="center">
   <img src="https://img.shields.io/badge/Hadoop-FF6600?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
@@ -80,16 +69,11 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-## 🛠️ Tech Stack  
+---
 
-### 🚀 Languages & Frameworks  
+## 🛠️ Tech Stack (Quick View)  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,react,django,dotnet" />
-</p>
-
-### 🗄️ Databases & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,react,django,dotnet,mysql,postgres,mongodb,git,github,vscode,azure,aws" />
 </p>
 
 ---
@@ -122,6 +106,16 @@
 ## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🎯 Soft Skills  
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem_Solving-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-FF1493?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Continuous_Learning-FFD700?style=for-the-badge"/>
 </p>
 
 ---
