@@ -1,7 +1,7 @@
 <h1 align="center">✨ Welcome to My GitHub ✨</h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F729&center=true&vCenter=true&lines=Hi+I'm+AbdalluH+Ahmed;Aspiring+Software+Engineer;Data+Science+%7C+AI+Enthusiast;AAlways+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F729&center=true&vCenter=true&lines=Hi+I'm+AbdalluH+Ahmed;Aspiring+Software+Engineer;Data+Science+%7C+AI+Enthusiast;Always+Learning+Technologies" alt="Typing SVG" />
 </p>
 
 ---
