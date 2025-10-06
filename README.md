@@ -64,7 +64,7 @@
 
 ## 🛠️ Tech Stack (Quick View)  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,react,django,dotnet,mysql,postgres,mongodb,git,github,vscode,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,django,powerbi,mysql,git,github,vscode,aws" />
 </p>
 
 ---
