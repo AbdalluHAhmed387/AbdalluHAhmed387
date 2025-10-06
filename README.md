@@ -64,8 +64,10 @@
 
 ## 🛠️ Tech Stack (Quick View)  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,django,powerbi,mysql,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,django,mysql,git,github,vscode,aws" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" />
 </p>
+
 
 ---
 
