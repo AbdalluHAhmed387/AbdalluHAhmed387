@@ -61,17 +61,16 @@
 </p>
 
 ---
+###🧠 Data Science & Development Skills
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
-  <h3 style="color:#fff;">🧠 Data Science & Development Skills</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,sql" /> 
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,sql,sklearn,vscode,git,github" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" title="Pandas" style="margin: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" title="NumPy" style="margin: 5px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" title="Matplotlib" style="margin: 5px;" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" title="Seaborn" style="margin: 5px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" width="48" height="48" title="Plotly" style="margin: 5px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" title="Jupyter Notebook" style="margin: 5px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" title="Power BI" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-  
   <p style="color:#aaa; margin-top:10px;">Always learning, analyzing, and visualizing data 🚀</p>
 </div>
 
