@@ -61,19 +61,13 @@
 </p>
 
 ---
-
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
-  <h3 style="color:#fff;">🧠 Data Science & Development Skills</h3>
-  
-  <!-- لغات البرمجة -->
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,sqlite" /><br><br>
-  
-  <!-- مكتبات وأدوات التحليل -->
-  <img src="https://skillicons.dev/icons?i=numpy,sklearn,jupyter,vscode,git,github" />
+###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,sqlite" /><br>
+  <img src="https://skillicons.dev/icons?i=numpy,sklearn,vscode,git,github" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" title="Jupyter Notebook" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" title="Power BI" />
-  
-  <p style="color:#aaa; margin-top:10px;">Always learning, building, and analyzing 🚀</p>
-</div>
+</p>
 
 
 
