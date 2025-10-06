@@ -92,6 +92,9 @@
 
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,seaborn,matplotlib,sklearn,sql,java,html,css,powerbi,jupyter,git,github,vscode" />
+</p>
 
 
 ---
