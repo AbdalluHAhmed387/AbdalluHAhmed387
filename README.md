@@ -62,15 +62,19 @@
 
 ---
 
-## 🛠️ Tech Stack (Quick View)  
-<p align="center">
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
+  <h3 style="color:#fff;">🧠 Data Science & Development Skills</h3>
+  
   <!-- لغات البرمجة -->
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,sqlite" /><br>
-
-  <!-- مكتبات وأدوات Data Science -->
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,sqlite" /><br><br>
+  
+  <!-- مكتبات وأدوات التحليل -->
   <img src="https://skillicons.dev/icons?i=numpy,sklearn,jupyter,vscode,git,github" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" title="Power BI" />
-</p>
+  
+  <p style="color:#aaa; margin-top:10px;">Always learning, building, and analyzing 🚀</p>
+</div>
+
 
 
 
