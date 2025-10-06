@@ -76,7 +76,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" title="NumPy" style="margin:6px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" title="Matplotlib" style="margin:6px;" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" title="Seaborn" style="margin:6px;" />
-  <img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/images/plotly_logo.png" width="48" height="48" title="Plotly" style="margin:6px; background-color:white; border-radius:6px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" title="Scikit-learn" style="margin:6px;" />
 
   <!-- Tools -->
@@ -89,12 +88,6 @@
   <p style="color:#aaa; margin-top:15px;">Always learning, analyzing, and visualizing data 🚀</p>
 </div>
 
-
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,seaborn,matplotlib,sklearn,sql,java,html,css,powerbi,jupyter,git,github,vscode" />
-</p>
 
 
 ---
