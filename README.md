@@ -1,10 +1,7 @@
 <h1 align="center">Abdalluh Ahmed </h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F729&center=true&vCenter=true&lines=Hi+I'm+AbdalluH+Ahmed;Aspiring+Software+Engineer;Data+Science+%7C+AI+Enthusiast;Always+Learning+Technologies" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=600&height=45&lines=Data+Scientist+|+Python+Programming;SQL+|+Excel+|+Power+BI+|+Tableau;Turning+Data+into+Actionable+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=600&height=45&lines=Data+Scientist+|+AI+Engineer;Python+|+SQL+|+Power+BI+|+ML;Turning+Data+into+Actionable+Insights" />
 </p>
 ---
 
