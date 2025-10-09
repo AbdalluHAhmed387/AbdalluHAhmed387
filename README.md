@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=600&height=45&lines=Data+Scientist+|+AI+Engineer;Python+|+SQL+|+Power+BI+|+ML;Turning+Data+into+Actionable+Insights" />
 </p>
----
 
 ## 👨‍💻 About Me  
 🎓 **Software Engineer specialized in Data & AI**  
