@@ -127,10 +127,18 @@
 
 ---
 
-## 📫 Connect with Me  
+
+### 📫 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/abdalluhahmed387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="abdalluhahmedfathy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdalluhahmed387" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:abdalluhahmedfathy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://wa.me/201282630711" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge">
+  </a>
 </p>
 
 ---
